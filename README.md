@@ -14,7 +14,6 @@ HR  Analytics Dashboard Using Power BI
 
 • Power BI 📊
 
-• Statistics 📜
 ```
 # Dashboard Content :-
 
